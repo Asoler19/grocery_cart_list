@@ -1,4 +1,7 @@
 body{
+	height: 100vh;
+	width: 	auto;
+	margin: auto;
     font-family: 'Spicy Rice', cursive;
     background: #fffde7;
 }
