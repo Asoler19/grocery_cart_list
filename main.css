@@ -19,6 +19,11 @@ width:163px;
 
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+	
 input{
    width: 179px !important;
   padding: 15px 20px !important	;
